@@ -3950,6 +3950,8 @@ tbody.collapse.show {
   color: rgba(0, 0, 0, 0.9);
 }
 
+
+
 .navbar-light .navbar-nav .nav-link {
   color: rgba(0, 0, 0, 0.5);
 }
@@ -5729,7 +5731,7 @@ a.bg-light:focus, a.bg-light:hover {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #00004d !important;
 }
 
 a.bg-dark:focus, a.bg-dark:hover {
